@@ -54,9 +54,7 @@ export default function About(props) {
                     </div>
                 </div>
             </div>
-<footer>
-     <h5>Gaurab Dhakal</h5>
-</footer>
+
 
         </div>
     )
