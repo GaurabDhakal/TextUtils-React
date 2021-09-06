@@ -54,6 +54,9 @@ export default function About(props) {
                     </div>
                 </div>
             </div>
+<footer>
+     <h5 align="center" style="margin-top: 20px;">Gaurab Dhakal</h5>
+</footer>
 
         </div>
     )
